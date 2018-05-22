@@ -1,0 +1,9 @@
+﻿{
+  // -- DEMO/UAT/PRODUCTION
+  "Environment": "DEMO",
+
+  "DatabaseServerNetworkAddress": "localhost",
+  "NameOfProjectDatabase": "TestSqlTeaser",
+  "DatabaseUsername": "test",
+  "DatabasePassword": "123"
+}
